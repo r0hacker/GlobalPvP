@@ -1,0 +1,6 @@
+name: GlobalPvP
+main: me.tacos.GlobalPvP.GlobalPvP
+version: 1.0
+author: tacos
+commands:
+  pvp:
